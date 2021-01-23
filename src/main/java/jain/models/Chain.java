@@ -7,6 +7,7 @@ public class Chain {
     private int networkId = 1;
     private List<Block> blocks = new ArrayList<Block>();
 
+    // Das ist ein Test
     public Chain() {
     }
 
